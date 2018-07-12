@@ -1,0 +1,8 @@
+.one{
+  background-image: url("../img/ping1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  height: 80px;
+}
