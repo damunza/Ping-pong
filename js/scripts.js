@@ -10,18 +10,18 @@ $(document).ready(function(){
 })
 
 var pingpong=function(input){
-  for(var x=1; x<=input ; x++){
-    if (x % 3 ===0 && x % 5 === 0) {
-      console.log("pingpong");
+  for(var x=1; x<=input ; x++){//limits for which x is to be considered
+    if (x % 3 ===0 && x % 5 === 0) {//if x is evenly divisible by 15
+      //console.log("pingpong");
       var li='<li>' +'pingpong'+ '</li>';
-    }else if (x % 3 ===0) {
-      console.log("ping");
+    }else if (x % 3 ===0) {//if x is evenly divisible by 3
+      //console.log("ping");
       var li='<li>' +'ping'+ '</li>';
-    }else if (x % 5 ===0) {
-      console.log("pong");
+    }else if (x % 5 ===0) {//if x is evenly divisible by 5
+      //console.log("pong");
       var li='<li>' +'pong'+ '</li>';
     }else {
-      console.log(x);
+      //console.log(x);
       var li='<li>' +x+ '</li>';
     }
 

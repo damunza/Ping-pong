@@ -5,7 +5,7 @@
 {A web app. that runs numbers in a list. It however has the following exceptions : every number divisible by three is replaced with the word 'ping' ,every number divisible by five is replaced by the word 'pong' and every number divisible by fifteen is replaced by the word 'pingpong'}
 ## Setup/Installation Requirements
 * A web browser,preferably Google chrome
-* run https://github.com/damunza/Anitas-kitchen.git or https://damunza.github.io/Anitas-kitchen/
+* run https://github.com/damunza/Ping-pong.git or https://damunza.github.io/Ping-pong/
 
 ## Technologies Used
 {HTML was used to design the page and CSS was used to style the page.both bootstrap 4 and a private css were used.}
