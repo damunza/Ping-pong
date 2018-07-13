@@ -1,9 +1,10 @@
 $(document).ready(function(){
   $('form#number').submit(function(event){
     event.preventDefault();
+    $('#result').empty();
     var input=parseInt($('input#numeral').val());
     var output=pingpong(input);
-    //$('id of list').empty();-refreshes the  page every time a new number is entered
+    //$('id of list').empty();-refreshes the  page every time a new number is entered comes after event.
     // alert(input);
     // console.log(input);
 
