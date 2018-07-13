@@ -2,7 +2,7 @@
 #### recreation of the homepage for 'MENU' , Friday,July,13,2018
 #### By Daniel Mutai
 ## Description
-{A web app. that runs numbers in a list. It however has the following exceptions : every number divisible by three is replaced with the word 'ping' ,every number divisible by five is replaced by the word 'pong' and every number divisible by fifteen is replaced by the word 'pingpong'}
+{A web app. that runs numbers in a list. It however has the following exceptions : every number divisible by three is replaced with the word 'ping' ,every number divisible by five is replaced by the word 'pong' and every number divisible by fifteen is replaced by the word 'pingpong'.The web page refreshes every 15 seconds for input of a new number.}
 ## Setup/Installation Requirements
 * A web browser,preferably Google chrome
 * run https://github.com/damunza/Ping-pong.git or https://damunza.github.io/Ping-pong/
