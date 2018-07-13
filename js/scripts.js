@@ -3,6 +3,7 @@ $(document).ready(function(){
     event.preventDefault();
     var input=parseInt($('input#numeral').val());
     var output=pingpong(input);
+    //$('id of list').empty();-refreshes the  page every time a new number is entered
     // alert(input);
     // console.log(input);
 
